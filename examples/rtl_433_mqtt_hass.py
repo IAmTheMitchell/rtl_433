@@ -307,7 +307,7 @@ mappings = {
         }
     },
 
-    "pressure_psi": {
+    "pressure_PSI": {
         "device_type": "sensor",
         "object_suffix": "P",
         "config": {
